@@ -19,9 +19,9 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #---http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1,Матч! HD
 #EXTGRP:Федеральные
+#EXTINF tvg-logo "https://avatars.mds.yandex.net/i?id=a24e528c45654a9e6b5c624c84915648_l-4866546-images-thumbs&n=13"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTM3U url-tvg="https://avatars.mds.yandex.net/i?id=a24e528c45654a9e6b5c624c84915648_l-4866546-images-thumbs&n=13"
 #EXTINF:-1,НТВ
 #EXTGRP:Федеральные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
