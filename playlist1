@@ -17,10 +17,10 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #---http://player.smotrim.ru/iframe/stream/live_id/2961?43e=4.m3u8?
 #---http://player.smotrim.ru/iframe/stream/live_id/56892?43e=4.m3u8?*HD
 #---http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1,Матч!
+#EXTINF:-1,Матч!, HD
 #EXTGRP:Федеральные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8??
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1,НТВ
 #EXTGRP:Федеральные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
@@ -68,7 +68,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8??
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8??
 #---http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8??
 #EXTINF:-1,Спас
-#EXTGRP:🇷🇺 Россия 🇷🇺
+#EXTGRP:Федеральные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8??
 #---http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8???
