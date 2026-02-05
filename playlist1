@@ -4,66 +4,66 @@
 #---list-autor="©rus-iptv.blogspot.com"
 #--------------------------------------- Ф Е Д Е Р А Л Ь Н Ы Е -----------------------------------------#
 #EXTINF:-1,Первый Канал HD
-#EXTGRP:🇷🇺 Россия 🇷🇺
+#EXTGRP:Федеральные
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?*HD
 #---https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?*HD
 #---https://cdn10.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?*HD
 #---http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8??*SD
 #---http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?
 #EXTINF:-1,Россия 1 HD
-#EXTGRP:🇷🇺 Россия 🇷🇺
+#EXTGRP:Федеральные
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #---http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8??*SD
 #---http://player.smotrim.ru/iframe/stream/live_id/2961?43e=4.m3u8?
 #---http://player.smotrim.ru/iframe/stream/live_id/56892?43e=4.m3u8?*HD
 #---http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1,Матч!
-#EXTGRP:🇷🇺 Россия 🇷🇺
+#EXTGRP:Федеральные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8??
 #EXTINF:-1,НТВ
-#EXTGRP:🇷🇺 Россия 🇷🇺
+#EXTGRP:Федеральные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8??
 #---#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 #---http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8??FHD
 #EXTINF:-1,Пятый Канал
-#EXTGRP:🇷🇺 Россия 🇷🇺
+#EXTGRP:Федеральные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8??
 #---http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8??
 #---http://strm.yandex.ru/kal/5_kanal_int_belarus/5_kanal_int_belarus0.m3u8
 #EXTINF:-1,Россия Культура HD
-#EXTGRP:🇷🇺 Россия 🇷🇺
+#EXTGRP:Федеральные
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #---http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8??
 #---http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8??
 #---http://player.smotrim.ru/iframe/stream/live_id/19201?43e=4.m3u8?*
 #EXTINF:-1,Россия 24
-#EXTGRP:🇷🇺 Россия 🇷🇺
+#EXTGRP:Федеральные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8??
 #---http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8??
 #---http://player.smotrim.ru/iframe/stream/live_id/27198?43e=4.m3u8?*
 #---http://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia24-sd/track_103_8403cae1/chunklist.m3u8
 #EXTINF:-1,Карусель
-#EXTGRP:🇷🇺 Россия 🇷🇺
+#EXTGRP:Федеральные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8??
 #---http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8??
 #---http://player.smotrim.ru/iframe/stream/live_id/61126?43e=4.m3u8?*
 #EXTINF:-1,ОТР
-#EXTGRP:🇷🇺 Россия 🇷🇺
+#EXTGRP:Федеральные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8??
 #---http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8??
 #EXTINF:-1,ТВ Центр
-#EXTGRP:🇷🇺 Россия 🇷🇺
+#EXTGRP:Федеральные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8??
 #---http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8??
 #EXTINF:-1,Рен ТВ
-#EXTGRP:🇷🇺 Россия 🇷🇺
+#EXTGRP:Федеральные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8??
 #---http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8??
@@ -73,44 +73,44 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8??
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8??
 #---http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8???
 #EXTINF:-1,СТС
-#EXTGRP:🇷🇺 Россия 🇷🇺
+#EXTGRP:Федеральные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8??
 #---http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8??SD
 #---http://dmi3y-tv.ru/hls/T2/CH_STSHD.m3u8??HD
 #EXTINF:-1,Домашний
-#EXTGRP:🇷🇺 Россия 🇷🇺
+#EXTGRP:Федеральные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8??
 #---http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8??
 #---http://player.smotrim.ru/iframe/stream/live_id/64556?43e=4.m3u8?*
 #EXTINF:-1,ТВ-3
-#EXTGRP:🇷🇺 Россия 🇷🇺
+#EXTGRP:Федеральные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8??
 #---http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8??
 #EXTINF:-1,Пятница!
-#EXTGRP:🇷🇺 Россия 🇷🇺
+#EXTGRP:Федеральные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8??
 #---http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8??
 #EXTINF:-1,Звезда HD
-#EXTGRP:🇷🇺 Россия 🇷🇺
+#EXTGRP:Федеральные
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8?*HD
 #---http://s18209.cdn.ngenix.net/hls/CH_R03_ZVEZDA/playlist.m3u8??
 #---http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8??
 #EXTINF:-1,Мир HD
-#EXTGRP:🇷🇺 Россия 🇷🇺
+#EXTGRP:Федеральные
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8?*
 #---http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8??
 #EXTINF:-1,ТНТ
-#EXTGRP:🇷🇺 Россия 🇷🇺
+#EXTGRP:Федеральные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8??
 #---http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8??SD
 #---http://dmi3y-tv.ru/hls/T2/CH_TNTHD.m3u8??HD
 #EXTINF:-1,Муз-ТВ
-#EXTGRP:🇷🇺 Россия 🇷🇺
+#EXTGRP:Федеральные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #---http://94.230.240.17:8080/muztv/index.m3u8??+4
